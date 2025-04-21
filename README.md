@@ -1,6 +1,6 @@
 A Minecraft 1.21.1 mod which features new Blaze armor and tools waiting to be crafted by you!
 
-If you happen to find any bugs or inconsistencies in the Inferno mod, be sure to report them here!
+If you happen to find any bugs or inconsistencies in the Inferno mod or its sister Typhoon, be sure to report them here!
 
 I accept pull requests; however, the majority of development is done internally by myself.
 
