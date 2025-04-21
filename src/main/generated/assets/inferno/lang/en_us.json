@@ -1,0 +1,21 @@
+{
+  "item.inferno.blaze_helmet": "Blaze Helmet",
+  "item.inferno.blaze_chestplate": "Blaze Chestplate",
+  "item.inferno.blaze_leggings": "Blaze Leggings",
+  "item.inferno.blaze_boots": "Blaze Boots",
+  "item.inferno.blaze_sword": "Blaze Sword",
+  "item.inferno.blaze_pickaxe": "Blaze Pickaxe",
+  "item.inferno.blaze_axe": "Blaze Axe",
+  "item.inferno.blaze_shovel": "Blaze Shovel",
+  "item.inferno.blaze_hoe": "Blaze Hoe",
+  "item.inferno.blaze_ring": "Ring of Fire",
+  "item.inferno.blaze_upgrade_smithing_template": "Smithing Template",
+  "upgrade.inferno.blaze_upgrade": "Blaze Upgrade",
+  "item.inferno.smithing_template.blaze_upgrade.applies_to": "Netherite Equipment",
+  "item.inferno.smithing_template.blaze_upgrade.ingredients": "Ring of Fire",
+  "item.inferno.smithing_template.blaze_upgrade.additions_slot_description": "Add Ring of Fire",
+  "item.inferno.smithing_template.blaze_upgrade.base_slot_description": "Add netherite armor, weapon, or tool",
+  "itemGroup.inferno": "Inferno",
+  "advancements.inferno:blaze_armor.title": "With all the Strength of a Raging Fire",
+  "advancements.inferno:blaze_armor.description": "Obtain a full set of Blaze Armor"
+}
