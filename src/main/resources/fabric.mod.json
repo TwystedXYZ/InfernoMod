@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "inferno",
+	"version": "1.0",
+	"name": "Inferno",
+	"description": "A Minecraft mod which features a custom armor set for the Blaze.",
+	"authors": [
+		"TwystedXYZ"
+	],
+	"contact": {
+		"sources": "https://github.com/TwystedXYZ/InfernoMod"
+	},
+	"icon": "assets/inferno/textures/item/blaze_ring.png",
+	"license": "AGPL-3.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.twystedxyz.inferno.Inferno"
+		],
+		"client": [
+			"com.twystedxyz.inferno.InfernoClient"
+		],
+		"fabric-datagen": [
+			" "
+		]
+	},
+	"mixins": [
+		"inferno.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*",
+		"owo": "*"
+	},
+
+	"accessWidener": "inferno.accesswidener"
+}
